@@ -19,6 +19,21 @@
 - **Mobile Game Optimization** – Performance tuning, touch controls, joystick input, and UI adaptation  
 - **Game Architecture & Systems** – Player data management, upgrade systems, level design, AI behavior, and scoring systems  
 ---
+## 🚧 Currently Working On  
+
+### 🌌 Educational VR Solar System  
+- A VR experience to **educate users about the solar system** interactively.  
+- Players can **explore each planet**, learn about its characteristics, and understand its fundamentals.  
+- Focuses on **VR interaction systems, procedural animations, and immersive learning**.  
+
+### 🪐 Junk Orbit – Space Junk Collector (Mobile Game)  
+- An arcade-style mobile game where players **pilot a rocket to collect floating space junk**.  
+- Includes **joystick controls, dynamic environments, player upgrades, and physics-based collection systems**.  
+- Designed to **showcase skills in mobile gameplay, procedural mechanics, and optimization**.  
+
+> Both projects are being developed to **showcase my skills across diverse fields of game development**, from educational VR to mobile arcade experiences.
+---
+
 ## 📂 Projects  
 
 <p align="center">
