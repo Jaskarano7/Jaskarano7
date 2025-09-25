@@ -1,29 +1,75 @@
 # Hi there, I'm Jaskaran Singh 👋  
 
-🚀 **Game Developer | Unity | VR/AR | Firebase | APIs**  
+🚀 **Game Developer | Unity | VR/AR**  
 
 ---
 
 ## 👨‍💻 About Me  
 - 🎮 Passionate about building **VR, 3D, and mobile games**  
-- 🛠️ Experienced with **Unity, Firebase, API integration**  
-- 🧩 Love solving problems and creating fun, interactive experiences  
-- 🏗️ Founder of **Parody Studio**  
+- 🛠️ Experienced with **Unity, Firebase, API integration, SDK integration**  
+- 🧩 Love solving problems and creating fun, interactive experiences   
 - 📍 Based in India  
 
 ---
 
 ## 📂 Projects  
 
-### 🎮 Game Projects
-- 🏗️ **Construction Crane Simulator** – VR, PC, and Mobile crane control system  
-- ⚡ **Cart Racing Game** – Fun mobile game calculating safe curve speeds  
-- 🏏 **NFT Cricket Game** – Unity + Firebase + APIs (Dynamic lobby, NFT system, tournaments)  
-- 🕹️ **VR Sports Mini Games** – Carnival & sports-themed VR games (Can Toss, Ring Throw, etc.)  
+### 🏏 VR Cricket Game  
+A Unity project bringing the **real sport of cricket into VR** with authentic batting, bowling, and fielding.  
+- **Ball Physics:** custom system with spin, gravity, bounce dampening, random variations, and real bat velocity tracking.  
+- **Batting & Haptics:** realistic impact sounds + VR controller vibration feedback.  
+- **Bowling System:** multiple bowling styles (fast, spin, medium pace) with accurate trajectories and bounce prediction.  
+- **Fielding AI:** fielder prediction system, IK-based animations for catching & scooping, wicket-keeper logic.  
+- **Gameplay Flow:** full match scoring, wickets, stumps interaction, resets, and deadlock prevention.  
 
-### 📊 Backend & Database
-- 🔥 **Firebase Realtime Database Projects** – Dynamic lobbies, tournament handling, user stats tracking  
-- 🌐 **API Integrations** – Wallet system, NFT fetching, match joining, and transactions  
+🎥 Built and tested on **Meta Quest 2**.  
+
+---
+
+### 🏹 VR Archery Game  
+A Unity VR project recreating the **immersive experience of archery** with realistic bow mechanics, arrow physics, and target challenges.  
+- **Bow Mechanics:** fully procedural bowstring pull system with variable draw strength and haptic feedback.  
+- **Arrow Physics:** custom projectile motion with gravity, air drag, and penetration checks for authentic arrow flight.  
+- **Aiming & Feedback:** visual bowstring tension indicators, vibration feedback, and precise hit detection.  
+- **Target System:** dynamic targets with scoring logic, moving/rotating targets for increased difficulty.  
+- **Gameplay Flow:** practice mode, scoring mode, and progression system with increasing challenge levels.  
+
+🎥 Built and tested on **Meta Quest 2**.  
+---
+https://github.com/user-attachments/assets/30bcd7d3-4fcc-4850-a941-4b299903348d
+### 🐙 Doctor Oct Tentacle Procedural Animation Controller  
+A Unity project featuring a **tentacle-based player character** driven entirely through **procedural animation**.  
+- Procedural locomotion with dynamic step placement  
+- Physics-based step prediction with raycasts  
+- Idle & rest system for natural poses  
+- Real-time adaptive movement based on player input  
+- Debug gizmos for development  
+
+**Next:** IK support, wall climbing, VR tentacle control, and object grabbing  
+
+---
+https://github.com/user-attachments/assets/49807ed8-b5e7-49d4-87de-44ffe1a4bae4
+### 🎮 Shapescape (Hypercasual Mobile Game)  
+A **hypercasual endless runner** built in Unity with addictive gameplay.  
+- Procedural map generation – every run feels unique  
+- Shape-shifting mechanics to adapt and survive  
+- Dynamic speed system rewarding precision  
+- Mobile-optimized smooth controls  
+
+**Current Theme:** Fast Food Mode 🍕🍔🍩  
+**Next:** New modes (Vehicles, Animals), Play Store release  
+
+---
+https://github.com/user-attachments/assets/2317f65c-9a55-493b-a77e-598b95d1ab5d
+### 🪐 Junk Orbit – Space Junk Collector (In Progress)
+An arcade-style Unity game where you **pilot a rocket to collect floating junk in space**.  
+- Joystick-driven rocket with acceleration & thruster FX  
+- Space junk collection with capacity & level restrictions  
+- Upgradeable player stats (speed, capacity, points)  
+- Smooth follow camera & fading obstacles  
+- Dynamic environment with meteors and asteroid boundaries  
+
+**Next:** Upgrade shop, AI competitors, power-ups (magnet, shield, turbo)  
 
 ---
 
@@ -32,19 +78,8 @@
 - **Languages:** C#, JavaScript  
 - **Databases:** Firebase Realtime Database  
 - **APIs:** REST APIs, NFT integrations  
-- **Tools:** Git, Postman, Blender (for 3D assets)  
+- **Tools:** Git  
 
 ---
 
-## 📈 GitHub Stats  
-![Jaskaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-
----
-
-## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🐦 [Twitter](https://twitter.com/)  
-- 📧 Email: your@email.com  
-
----
-⭐️ From [Jaskaran Singh](https://github.com/YOUR_USERNAME)
+⭐️ _Always learning, building, and experimenting with new ideas in game development._  
