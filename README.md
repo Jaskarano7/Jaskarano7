@@ -11,7 +11,14 @@
 - 📍 Based in India  
 
 ---
-
+### 🎮 Unity Game Development Skills  
+- **Unity Engine** – Experienced in 2D, 3D, VR, AR, Mobile, and PC development  
+- **Gameplay Programming** – C# scripting for mechanics, physics, player control, and interactive systems  
+- **VR/AR Systems** – Meta Quest, Oculus SDKs, XR Interaction Toolkit, hand tracking, VR locomotion  
+- **Procedural Animation & Physics Simulation** – Procedural tentacle movement, IK systems, real-time physics-based interactions  
+- **Mobile Game Optimization** – Performance tuning, touch controls, joystick input, and UI adaptation  
+- **Game Architecture & Systems** – Player data management, upgrade systems, level design, AI behavior, and scoring systems  
+---
 ## 📂 Projects  
 
 <p align="center">
@@ -82,16 +89,6 @@ An arcade-style Unity game where you **pilot a rocket to collect floating junk i
 - Dynamic environment with meteors and asteroid boundaries  
 
 **Next:** Upgrade shop, AI competitors, power-ups (magnet, shield, turbo)  
-
----
-
-## 🛠️ Tech Stack  
-- **Game Engines:** Unity (VR, Mobile, PC)  
-- **Languages:** C#, JavaScript  
-- **Databases:** Firebase Realtime Database  
-- **APIs:** REST APIs, NFT integrations  
-- **Tools:** Git  
-
 ---
 
 ⭐️ _Always learning, building, and experimenting with new ideas in game development._  
