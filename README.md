@@ -76,6 +76,7 @@ A Unity VR project recreating the **immersive experience of archery** with reali
 
 ---
 
+https://github.com/user-attachments/assets/30bcd7d3-4fcc-4850-a941-4b299903348d
 ### 🐙 Doctor Oct Tentacle Procedural Animation Controller  
 A Unity project featuring a **tentacle-based player character** driven entirely through **procedural animation**.  
 - Procedural locomotion with dynamic step placement  
@@ -88,6 +89,7 @@ A Unity project featuring a **tentacle-based player character** driven entirely 
 
 ---
 
+https://github.com/user-attachments/assets/49807ed8-b5e7-49d4-87de-44ffe1a4bae4
 ### 🎮 Shapescape (Hypercasual Mobile Game)  
 A **hypercasual endless runner** built in Unity with addictive gameplay.  
 - Procedural map generation – every run feels unique  
@@ -100,6 +102,7 @@ A **hypercasual endless runner** built in Unity with addictive gameplay.
 
 ---
 
+https://github.com/user-attachments/assets/2317f65c-9a55-493b-a77e-598b95d1ab5d
 ### 🪐 Junk Orbit – Space Junk Collector (In Progress)  
 An arcade-style Unity game where you **pilot a rocket to collect floating junk in space**.  
 - Joystick-driven rocket with acceleration & thruster FX  
