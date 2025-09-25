@@ -13,6 +13,18 @@
 ---
 
 ## 📂 Projects  
+## 📂 Projects  
+
+### 🏏 VR Cricket Game  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/422a3c01-94c0-4698-b932-e59098c8569d" width="32%" />
+  <img src="https://github.com/user-attachments/assets/7eae19b3-dc4e-4fb1-9bab-e7bb6b724151" width="32%" />
+  <img src="https://github.com/user-attachments/assets/27c2ea36-6f7c-48bf-b91c-908b5d5e8ddf" width="32%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8386d17f-25bf-495b-baaf-4f0813b797c4" width="32%" />
+</p>
+
 
 ### 🏏 VR Cricket Game  
 A Unity project bringing the **real sport of cricket into VR** with authentic batting, bowling, and fielding.  
@@ -25,9 +37,11 @@ A Unity project bringing the **real sport of cricket into VR** with authentic ba
 🎥 Built and tested on **Meta Quest 2**.  
 
 ---
-<img width="1917" height="1079" alt="Screenshot 2025-09-26 002853" src="https://github.com/user-attachments/assets/9ee9a45b-d76c-4bba-ab81-f8df0bf1b494" />
-<img width="1919" height="1079" alt="Screenshot 2025-09-26 002825" src="https://github.com/user-attachments/assets/ff80744b-dc48-4853-8755-c4fdb00a74b9" />
-<img width="1919" height="1079" alt="Screenshot 2025-09-26 003019" src="https://github.com/user-attachments/assets/85f705c9-49c8-423b-8bc1-f0de62abc129" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9ee9a45b-d76c-4bba-ab81-f8df0bf1b494" width="32%" />
+  <img src="https://github.com/user-attachments/assets/ff80744b-dc48-4853-8755-c4fdb00a74b9" width="32%" />
+  <img src="https://github.com/user-attachments/assets/85f705c9-49c8-423b-8bc1-f0de62abc129" width="32%" />
+</p>
 
 ### 🏹 VR Archery Game  
 A Unity VR project recreating the **immersive experience of archery** with realistic bow mechanics, arrow physics, and target challenges.  
