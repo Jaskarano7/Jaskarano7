@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎮 Passionate about building **VR, 3D, and mobile games**  
+- 🎮 Passionate about building **Games** (PC, VR/AR, Mobile)  
 - 🛠️ Experienced with **Unity, Firebase, API integration, SDK integration**  
 - 🧩 Love solving problems and creating fun, interactive experiences   
 - 📍 Based in India  
@@ -45,6 +45,7 @@
   <img src="https://github.com/user-attachments/assets/7eae19b3-dc4e-4fb1-9bab-e7bb6b724151" width="30%" />
   <img src="https://github.com/user-attachments/assets/422a3c01-94c0-4698-b932-e59098c8569d" width="30%" />
 </p>
+
 ### 🏏 VR Cricket Game  
 A Unity project bringing the **real sport of cricket into VR** with authentic batting, bowling, and fielding.  
 - **Ball Physics:** custom system with spin, gravity, bounce dampening, random variations, and real bat velocity tracking.  
@@ -55,13 +56,14 @@ A Unity project bringing the **real sport of cricket into VR** with authentic ba
 
 🎥 Built and tested on **Meta Quest 2**.  
 
----
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9ee9a45b-d76c-4bba-ab81-f8df0bf1b494" width="30%" />
   <img src="https://github.com/user-attachments/assets/ff80744b-dc48-4853-8755-c4fdb00a74b9" width="30%" />
   <img src="https://github.com/user-attachments/assets/85f705c9-49c8-423b-8bc1-f0de62abc129" width="30%" />
 </p>
+
+---
+
 ### 🏹 VR Archery Game  
 A Unity VR project recreating the **immersive experience of archery** with realistic bow mechanics, arrow physics, and target challenges.  
 - **Bow Mechanics:** fully procedural bowstring pull system with variable draw strength and haptic feedback.  
