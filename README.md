@@ -17,12 +17,9 @@
 
 ### 🏏 VR Cricket Game  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/422a3c01-94c0-4698-b932-e59098c8569d" width="32%" />
-  <img src="https://github.com/user-attachments/assets/7eae19b3-dc4e-4fb1-9bab-e7bb6b724151" width="32%" />
-  <img src="https://github.com/user-attachments/assets/27c2ea36-6f7c-48bf-b91c-908b5d5e8ddf" width="32%" />
-</p>
-<p align="center">
   <img src="https://github.com/user-attachments/assets/8386d17f-25bf-495b-baaf-4f0813b797c4" width="32%" />
+  <img src="https://github.com/user-attachments/assets/7eae19b3-dc4e-4fb1-9bab-e7bb6b724151" width="32%" />
+  <img src="https://github.com/user-attachments/assets/422a3c01-94c0-4698-b932-e59098c8569d" width="32%" />
 </p>
 
 
