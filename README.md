@@ -13,9 +13,7 @@
 ---
 
 ## 📂 Projects  
-## 📂 Projects  
 
-### 🏏 VR Cricket Game  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8386d17f-25bf-495b-baaf-4f0813b797c4" width="32%" />
   <img src="https://github.com/user-attachments/assets/7eae19b3-dc4e-4fb1-9bab-e7bb6b724151" width="32%" />
