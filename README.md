@@ -1,5 +1,4 @@
-# Hi there, I'm Jassio Jaskaran Singh 👋  
-aka **Jassio** 🐾
+# Hi there, I'm Jassio Jaskaran Singh 👋 (aka **Jassio**)
 
 🚀 **Game Developer | Unity | VR/AR**  
 
