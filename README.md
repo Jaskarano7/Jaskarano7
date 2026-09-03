@@ -1,118 +1,125 @@
-# Hi there, I'm Jassio Jaskaran Singh 👋 (**Jassio**)
+# Jaskaran Singh
 
-🚀 **Game Developer | Unity | VR/AR**  
+**Graphics Programmer | C++ | DirectX 11 | Real-Time Rendering**
 
----
+Graphics Programmer with a background in Computer Science and experience building real-time graphics applications and interactive 3D systems. Interested in rendering, procedural generation, shader programming, and performance optimization, with a focus on building efficient and technically driven visual systems.
 
-## 👨‍💻 About Me  
-- 🎮 Passionate about building **Games** (PC, VR/AR, Mobile)  
-- 🛠️ Experienced with **Unity, Firebase, API integration, SDK integration**  
-- 🧩 Love solving problems and creating fun, interactive experiences   
-- 📍 Based in India  
+## Technical Skills
 
----
+* **Languages:** C++, C#
+* **Graphics APIs:** DirectX 11, OpenGL
+* **Graphics Programming:** Real-Time Rendering, 3D Graphics, HLSL, Shaders
+* **Rendering & Optimization:** LOD, Frustum Culling, GPU/CPU Optimization
+* **Engine:** Unity
+* **Development:** Object-Oriented Programming, Debugging, Problem Solving
 
-## 🎮 Unity Game Development Skills  
-- **Unity Engine** – Experienced in 2D, 3D, VR, AR, Mobile, and PC development  
-- **Gameplay Programming** – C# scripting for mechanics, physics, player control, and interactive systems  
-- **VR/AR Systems** – Meta Quest, Oculus SDKs, XR Interaction Toolkit, hand tracking, VR locomotion  
-- **Procedural Animation & Physics Simulation** – Procedural tentacle movement, IK systems, real-time physics-based interactions  
-- **Mobile Game Optimization** – Performance tuning, touch controls, joystick input, and UI adaptation  
-- **Game Architecture & Systems** – Player data management, upgrade systems, level design, AI behavior, and scoring systems  
+## Featured Projects
 
----
+### Procedural Terrain Generator
 
-## 🚧 Currently Working On  
+A real-time procedural terrain generation and rendering project built from scratch using C++, DirectX 11, and HLSL.
 
-### 🌌 Educational VR Solar System  
-- A VR experience to **educate users about the solar system** interactively.  
-- Players can **explore each planet**, learn about its characteristics, and understand its fundamentals.  
-- Focuses on **VR interaction systems, procedural animations, and immersive learning**.  
+* Procedural terrain generation using FBM noise with hydraulic and thermal erosion
+* Procedural climate and biome generation with automatic rivers and lakes
+* Chunk-based terrain rendering with four-level LOD and frustum culling
+* Cascaded shadow mapping and GPU resource optimization
+* Real-time terrain editing with Raise, Lower, Flatten, and Smooth tools
+* Dynamic biome re-blending, splatmap-based terrain materials, and real-time water rendering
+* Custom terrain export system
 
-### 🪐 Junk Orbit – Space Junk Collector (Mobile Game)  
-- An arcade-style mobile game where players **pilot a rocket to collect floating space junk**.  
-- Includes **joystick controls, dynamic environments, player upgrades, and physics-based collection systems**.  
-- Designed to **showcase skills in mobile gameplay, procedural mechanics, and optimization**.  
-
-> Both projects are being developed to **showcase my skills across diverse fields of game development**, from educational VR to mobile arcade experiences.
+**Tech:** C++ | DirectX 11 | HLSL | WPF
 
 ---
 
-## 📂 Projects  
+### Procedural Tentacle Animation
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8386d17f-25bf-495b-baaf-4f0813b797c4" width="30%" />
-  <img src="https://github.com/user-attachments/assets/7eae19b3-dc4e-4fb1-9bab-e7bb6b724151" width="30%" />
-  <img src="https://github.com/user-attachments/assets/422a3c01-94c0-4698-b932-e59098c8569d" width="30%" />
-</p>
+A procedural Unity animation system designed to create adaptive tentacle locomotion using raycasts and physics-based movement.
 
-### 🏏 VR Cricket Game  
-A Unity project bringing the **real sport of cricket into VR** with authentic batting, bowling, and fielding.  
-- **Ball Physics:** custom system with spin, gravity, bounce dampening, random variations, and real bat velocity tracking.  
-- **Batting & Haptics:** realistic impact sounds + VR controller vibration feedback.  
-- **Bowling System:** multiple bowling styles (fast, spin, medium pace) with accurate trajectories and bounce prediction.  
-- **Fielding AI:** fielder prediction system, IK-based animations for catching & scooping, wicket-keeper logic.  
-- **Gameplay Flow:** full match scoring, wickets, stumps interaction, resets, and deadlock prevention.  
+* Procedural locomotion with dynamic step placement
+* Physics-based step prediction using raycasts
+* Idle and rest system for natural poses
+* Real-time adaptive movement based on player input
+* Debug gizmos for development and visualization
 
-🎥 Built and tested on **Meta Quest 2**.  
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9ee9a45b-d76c-4bba-ab81-f8df0bf1b494" width="30%" />
-  <img src="https://github.com/user-attachments/assets/ff80744b-dc48-4853-8755-c4fdb00a74b9" width="30%" />
-  <img src="https://github.com/user-attachments/assets/85f705c9-49c8-423b-8bc1-f0de62abc129" width="30%" />
-</p>
+**Tech:** Unity | C#
 
 ---
 
-### 🏹 VR Archery Game  
-A Unity VR project recreating the **immersive experience of archery** with realistic bow mechanics, arrow physics, and target challenges.  
-- **Bow Mechanics:** fully procedural bowstring pull system with variable draw strength and haptic feedback.  
-- **Arrow Physics:** custom projectile motion with gravity, air drag, and penetration checks for authentic arrow flight.  
-- **Aiming & Feedback:** visual bowstring tension indicators, vibration feedback, and precise hit detection.  
-- **Target System:** dynamic targets with scoring logic, moving/rotating targets for increased difficulty.  
-- **Gameplay Flow:** practice mode, scoring mode, and progression system with increasing challenge levels.  
+### VR Cricket Game
 
-🎥 Built and tested on **Meta Quest 2**.  
+A Unity VR cricket experience focused on realistic sports interactions and custom gameplay systems.
 
----
+* Custom ball physics with spin, gravity, bounce dampening, and bat velocity tracking
+* Batting and bowling systems with haptic feedback
+* Multiple bowling styles with trajectory and bounce prediction
+* Fielding AI with IK-based catching and scooping animations
+* Match scoring, wickets, stumps interaction, and gameplay flow
 
-https://github.com/user-attachments/assets/30bcd7d3-4fcc-4850-a941-4b299903348d
-### 🐙 Doctor Oct Tentacle Procedural Animation Controller  
-A Unity project featuring a **tentacle-based player character** driven entirely through **procedural animation**.  
-- Procedural locomotion with dynamic step placement  
-- Physics-based step prediction with raycasts  
-- Idle & rest system for natural poses  
-- Real-time adaptive movement based on player input  
-- Debug gizmos for development  
-
-**Next:** IK support, wall climbing, VR tentacle control, and object grabbing  
+**Platform:** Meta Quest 2
+**Tech:** Unity | C# | VR
 
 ---
 
-https://github.com/user-attachments/assets/49807ed8-b5e7-49d4-87de-44ffe1a4bae4
-### 🎮 Shapescape (Hypercasual Mobile Game)  
-A **hypercasual endless runner** built in Unity with addictive gameplay.  
-- Procedural map generation – every run feels unique  
-- Shape-shifting mechanics to adapt and survive  
-- Dynamic speed system rewarding precision  
-- Mobile-optimized smooth controls  
+### VR Archery Game
 
-**Current Theme:** Fast Food Mode 🍕🍔🍩  
-**Next:** New modes (Vehicles, Animals), Play Store release  
+A Unity VR archery project focused on procedural bow mechanics, projectile physics, and immersive interaction.
 
----
+* Procedural bowstring and variable draw-strength system
+* Custom arrow physics with gravity and air drag
+* Haptic feedback and visual aiming indicators
+* Dynamic targets with scoring and difficulty progression
+* Practice and scoring gameplay modes
 
-https://github.com/user-attachments/assets/2317f65c-9a55-493b-a77e-598b95d1ab5d
-### 🪐 Junk Orbit – Space Junk Collector (In Progress)  
-An arcade-style Unity game where you **pilot a rocket to collect floating junk in space**.  
-- Joystick-driven rocket with acceleration & thruster FX  
-- Space junk collection with capacity & level restrictions  
-- Upgradeable player stats (speed, capacity, points)  
-- Smooth follow camera & fading obstacles  
-- Dynamic environment with meteors and asteroid boundaries  
-
-**Next:** Upgrade shop, AI competitors, power-ups (magnet, shield, turbo)  
+**Platform:** Meta Quest 2
+**Tech:** Unity | C# | VR
 
 ---
 
-⭐️ _Always learning, building, and experimenting with new ideas in game development._
+### Shapescape
+
+A hypercasual Unity mobile game featuring procedural level generation and shape-shifting gameplay.
+
+* Procedural map generation
+* Shape-shifting mechanics
+* Dynamic speed and difficulty
+* Mobile-optimized controls and gameplay
+
+**Tech:** Unity | C#
+
+---
+
+### Junk Orbit
+
+A mobile arcade game currently in development where players pilot a rocket to collect space junk.
+
+* Joystick-based rocket controls with acceleration and thruster effects
+* Space junk collection with capacity and level restrictions
+* Upgradeable player statistics
+* Dynamic environments with meteors and asteroid boundaries
+* Follow camera and obstacle fading systems
+
+**Tech:** Unity | C#
+
+---
+
+## Currently Exploring
+
+* Real-Time Rendering
+* Graphics Programming
+* Procedural Generation
+* Rendering Optimization
+* Shader Programming
+* Advanced C++
+* Graphics APIs
+
+## About
+
+I enjoy building systems from scratch, understanding how they work at a lower level, and experimenting with graphics, procedural generation, animation, and real-time interaction.
+
+My current focus is on growing as a Graphics Programmer and exploring modern real-time rendering techniques and graphics systems.
+
+## Contact
+
+* **LinkedIn:** [Jaskaran Singh](https://www.linkedin.com/in/jaskaran-s-45667a242/)
+* **GitHub:** [Jaskarano7](https://github.com/Jaskarano7)
+* **Email:** [jaskaran.singhww@gmail.com](mailto:jaskaran.singhww@gmail.com)
